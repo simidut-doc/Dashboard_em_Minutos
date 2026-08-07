@@ -5,12 +5,13 @@
 
 # 📊 Dashboard em Minutos
 
-> **Projeto prático** de um gerador de dashboards a partir de uma simples planilha de dados, usando IA para acelerar análise, geração de insights e tomada de decisão.
-> 🏆 **Destaque:** Como subproduto, o projeto gera **duas versões** da mesma informação — um dashboard em **HTML** (interativo) e um em **PDF** (para compartilhamento) — permitindo escolher o melhor formato conforme a necessidade.
+> **Projeto prático** de um gerador de dashboards a partir de uma simples planilha de dados, usando IA para acelerar análise, geração de insights e tomada de decisão. Como subproduto, o projeto gera **duas versões** da mesma informação — um dashboard em **HTML** (interativo) e um em **PDF** (para compartilhamento) — permitindo escolher o melhor formato conforme a necessidade.
+> 
+🏆 **Destaque:** Trata-se um framework que interpreta uma base automaticamente e produz uma análise executiva.
 
 ## 🎯 Objetivo do Projeto
 
-Criar o **"Dashboard em Minutos"** no Claude para apoiar equipes na exploração e no manuseio de dados de qualquer assunto. A ferramenta analisa a base, identifica tendências, padrões e variações, define indicadores relevantes, gera insights e estrutura uma apresentação visual clara. O objetivo é transformar uma planilha crua em uma **fonte de informação clara e apresentável**, sem que o usuário precise lidar com uma montanha de dados brutos.
+Criar o **"Dashboard em Minutos"** no Claude para apoiar equipes na exploração e no manuseio de dados de qualquer assunto. A ferramenta analisa a base, identifica tendências, padrões e variações, define indicadores relevantes, gera insights e estrutura uma apresentação visual clara. O objetivo é transformar uma planilha crua em uma **fonte de informação clara e apresentável**, sem que o usuário precise lidar com uma montanha de dados brutos, ou seja, entender rapidamente uma base desconhecida.
 
 ## 🚧 Contexto e Problema
 
